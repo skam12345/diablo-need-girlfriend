@@ -1,5 +1,11 @@
 fileFormatVersion: 2
+<<<<<<<< Updated upstream:Library/PackageCache/com.unity.localization@1.5.4/Samples~/PersistentVariables/Scripts/RandomPlayerStats.cs.meta
 guid: d515cdba258c9cd4682d44527952c3b4
+========
+guid: 3a869e64de20e5a46ab534a1432c0a53
+timeCreated: 1466239254
+licenseType: Store
+>>>>>>>> Stashed changes:Assets/Resources/DownloadPackages/Suriyun/Scripts/Swapper.cs.meta
 MonoImporter:
   externalObjects: {}
   serializedVersion: 2

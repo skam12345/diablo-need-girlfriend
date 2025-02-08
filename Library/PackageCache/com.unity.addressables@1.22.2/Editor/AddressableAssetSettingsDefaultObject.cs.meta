@@ -1,5 +1,11 @@
 fileFormatVersion: 2
+<<<<<<<< Updated upstream:Library/PackageCache/com.unity.addressables@1.22.2/Editor/AddressableAssetSettingsDefaultObject.cs.meta
 guid: 3a189bb168d8d90478a09ea08c2f3d72
+========
+guid: f6b986f6b2ba94f409c0bfc977e94c79
+timeCreated: 1512750102
+licenseType: Store
+>>>>>>>> Stashed changes:Assets/Resources/DownloadPackages/Suriyun/Scripts/MouseOrbitImproved.cs.meta
 MonoImporter:
   externalObjects: {}
   serializedVersion: 2

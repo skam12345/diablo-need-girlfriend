@@ -1,5 +1,10 @@
 fileFormatVersion: 2
+<<<<<<<< Updated upstream:Library/PackageCache/com.unity.addressables@1.22.2/Tests/Editor/Expected/~SerializationTests_AddressableAssetSettings.ccd3.unity.meta
 guid: 08079bcd5a38ec5459e95445f2f3554b
+========
+guid: bfe8f5bfcccf929428ce9af9e28a5f39
+folderAsset: yes
+>>>>>>>> Stashed changes:Assets/Animator_Animations/Animator.meta
 DefaultImporter:
   externalObjects: {}
   userData: 

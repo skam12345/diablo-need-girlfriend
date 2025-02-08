@@ -1,5 +1,9 @@
 fileFormatVersion: 2
+<<<<<<<< Updated upstream:Library/PackageCache/com.unity.timeline@1.7.6/Samples~/Customization/Demo/Timelines.meta
 guid: 1bb4f0d7031284ffe937808a1cd51ec2
+========
+guid: d0273756b60f0f84293998185330b32c
+>>>>>>>> Stashed changes:Assets/Animator_Animations.meta
 folderAsset: yes
 DefaultImporter:
   externalObjects: {}

@@ -1,12 +1,69 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\Project\\Unity\\Lucifer-need-girlfriend\\Github\\diablo-need-girlfriend\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3EE45EDB-ACF9-6A48-6FAA-F3BCCDB08FA4}|Assembly-CSharp.csproj|d:\\project\\unity\\lucifer-need-girlfriend\\github\\diablo-need-girlfriend\\assets\\02_scripts\\0_testcode\\client\\charactermove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EE45EDB-ACF9-6A48-6FAA-F3BCCDB08FA4}|Assembly-CSharp.csproj|solutionrelative:assets\\02_scripts\\0_testcode\\client\\charactermove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EE45EDB-ACF9-6A48-6FAA-F3BCCDB08FA4}|Assembly-CSharp.csproj|d:\\project\\unity\\lucifer-need-girlfriend\\github\\diablo-need-girlfriend\\assets\\02_scripts\\titlescene\\titlescene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EE45EDB-ACF9-6A48-6FAA-F3BCCDB08FA4}|Assembly-CSharp.csproj|solutionrelative:assets\\02_scripts\\titlescene\\titlescene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Project\\Unity\\Lucifer-need-girlfriend\\Github\\diablo-need-girlfriend\\Assets\\Scripts\\0_TestCode\\Client\\TestFade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\0_TestCode\\Client\\TestFade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CharacterMove.cs",
+              "DocumentMoniker": "D:\\Project\\Unity\\Lucifer-need-girlfriend\\Github\\diablo-need-girlfriend\\Assets\\02_Scripts\\0_TestCode\\Client\\CharacterMove.cs",
+              "RelativeDocumentMoniker": "Assets\\02_Scripts\\0_TestCode\\Client\\CharacterMove.cs",
+              "ToolTip": "D:\\Project\\Unity\\Lucifer-need-girlfriend\\Github\\diablo-need-girlfriend\\Assets\\02_Scripts\\0_TestCode\\Client\\CharacterMove.cs*",
+              "RelativeToolTip": "Assets\\02_Scripts\\0_TestCode\\Client\\CharacterMove.cs*",
+              "ViewState": "AgIAACoAAAAAAAAAAAAuwD4AAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T10:25:53.602Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TitleScene.cs",
+              "DocumentMoniker": "D:\\Project\\Unity\\Lucifer-need-girlfriend\\Github\\diablo-need-girlfriend\\Assets\\02_Scripts\\TitleScene\\TitleScene.cs",
+              "RelativeDocumentMoniker": "Assets\\02_Scripts\\TitleScene\\TitleScene.cs",
+              "ToolTip": "D:\\Project\\Unity\\Lucifer-need-girlfriend\\Github\\diablo-need-girlfriend\\Assets\\02_Scripts\\TitleScene\\TitleScene.cs",
+              "RelativeToolTip": "Assets\\02_Scripts\\TitleScene\\TitleScene.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T09:21:50.391Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TestFade.cs",
+              "DocumentMoniker": "D:\\Project\\Unity\\Lucifer-need-girlfriend\\Github\\diablo-need-girlfriend\\Assets\\Scripts\\0_TestCode\\Client\\TestFade.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\0_TestCode\\Client\\TestFade.cs",
+              "ToolTip": "D:\\Project\\Unity\\Lucifer-need-girlfriend\\Github\\diablo-need-girlfriend\\Assets\\Scripts\\0_TestCode\\Client\\TestFade.cs",
+              "RelativeToolTip": "Assets\\Scripts\\0_TestCode\\Client\\TestFade.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T09:11:05.849Z"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
